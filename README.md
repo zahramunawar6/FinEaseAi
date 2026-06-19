@@ -13,7 +13,7 @@ Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js / Express.js
 Database: MongoDB
-
+Screenshot 2026-06-16 131103.png
 
 AI Integration: Machine Learning and Financial Analytics
 Version Control: Git & GitHub
